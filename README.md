@@ -130,7 +130,7 @@ print("Vége")
 
 __[Emoji](https://github.com/markdown-it/markdown-it-emoji)__
 
-Jelek::wink: :cry: :laughing: :yum:
+Jelek: :wink:  :cry:  :laughing:  :yum:
 
 
 __[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
