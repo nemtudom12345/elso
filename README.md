@@ -44,9 +44,9 @@ _Dőlt másként_
 - A részlisták 2 szóköz behúzásával készülnek: 
  - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
   + Alma
-    + Piros alma
-  + Narancs
-  + + További elem
+      + Piros alma
+    + Narancs
+ + További elem
 
 Számozás
 
