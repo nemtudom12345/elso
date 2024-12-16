@@ -1,6 +1,6 @@
 **Hirdetés**
 
--[Jófogás]https://jofogas.hu/ - Magyarország legnagyobb online apróhirdetési oldala.
+-__[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
