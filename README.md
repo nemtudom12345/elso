@@ -25,7 +25,7 @@ __Félkövér másként__
 
 _Dőlt másként_
 
-~~ Áthúzott ~~
+~~Áthúzott~~
 
 
 ## Blokkok
@@ -124,12 +124,12 @@ print("Vége")
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat") 
 
 
-### [Emoji](https://github.com/markdown-it/markdown-it-emoji)__
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
 Jelek: :wink:  :cry:  :laughing:  :yum:
 
 
-### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 
 Forgalomirányító protokollok: 
  
