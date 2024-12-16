@@ -113,7 +113,7 @@ print("Vége")
 
 + [Aqua](http://aqua.hu)
 
-+ [Media Markt](http://mediamarkt.hu/) MediaMarkt Magyarország
++ [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
 + [Automatikus link](https://arpadszki.hu)
 
