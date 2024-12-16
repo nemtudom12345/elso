@@ -1,6 +1,6 @@
 **Hirdetés**
 
--__[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
+- __[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
@@ -21,7 +21,7 @@ Vízszintes vonalak
 
 __Félkövér másként__
 
-* Dőlt 
+  *Dőlt* 
 
 _Dőlt másként_
 
@@ -40,13 +40,13 @@ _Dőlt másként_
 
 #### Felsorolás
 
-+ Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
++ Hozzon létre egy listát úgy, hogy egy sort kezd ezzel `+`, `-,` vagy `*`
 - A részlisták 2 szóköz behúzásával készülnek: 
  - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-  + Alma
+   + Alma
       + Piros alma
-    + Narancs
- + További elem
+   + Narancs
++ További elem
 
 Számozás
 
@@ -115,21 +115,21 @@ print("Vége")
 
 + [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-+ [Automatikus link](https://arpadszki.hu)
++ Automatikus link https://arpadszki.hu
 
 
 # Képek
 
 ![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg) "The Stormtroopocat"
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat") 
 
 
-__[Emoji](https://github.com/markdown-it/markdown-it-emoji)__
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)__
 
 Jelek: :wink:  :cry:  :laughing:  :yum:
 
 
-__[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
 
 Forgalomirányító protokollok: 
  
